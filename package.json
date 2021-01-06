@@ -56,7 +56,7 @@
     "@material-ui/icons": "^4.9.1",
     "@rjsf/core": "^2.2.1",
     "@rjsf/material-ui": "^2.2.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "jquery": "^3.5.1",
     "lodash": "^4.17.19",
     "normalize.css": "^8.0.1",
